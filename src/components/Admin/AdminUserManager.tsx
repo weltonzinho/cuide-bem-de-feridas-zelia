@@ -111,7 +111,7 @@ export const AdminUserManager: React.FC = () => {
     setEditFormData({
       name: admin.name,
       email: admin.email,
-      password: admin.password || 'Admin@2026',
+      password: admin.password || '',
       role: admin.role,
       roleTitle: admin.roleTitle || '',
       phone: admin.phone || '',
