@@ -89,7 +89,7 @@ export const INITIAL_ADMINS: AdminAccount[] = [
     id: 'admin-3',
     name: 'Juliana Paes Rocha',
     email: 'recepcao@cuidebem.com.br',
-    password: 'Recepcao@2026',
+    password: '',
     role: 'recepcao_atendimento',
     roleTitle: 'Coordenação de Atendimento & Recepção',
     clinicName: 'Cuide Bem de Feridas - Clínica & Atendimento Domiciliar',
